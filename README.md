@@ -45,7 +45,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by shubham-garg-sg, ggkarthik04 - feel free to contact me!
 
 
 <!-- Optional -->
